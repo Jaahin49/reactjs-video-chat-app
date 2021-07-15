@@ -1,1 +1,1 @@
-# reactjs-video-chat-app
+# Reactjs-video-chat-app
